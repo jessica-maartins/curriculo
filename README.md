@@ -34,4 +34,4 @@ Abra o arquivo index.html no seu navegador para visualizar o currículo. 🌐
 
 📬 Contato
 Para dúvidas ou sugestões, sinta-se à vontade para me contactar:<br>
-📧 Email: jessica@email.com
+📧 Email: jessica.maartins@outlook.com
